@@ -1,4 +1,4 @@
-# WebApp de sorteos
++# WebApp de sorteos
 
 Realiza una aplicación web que permita realizar sorteos de forma aleatoria utilizando HTML+CSS+JS Vanilla.
 
